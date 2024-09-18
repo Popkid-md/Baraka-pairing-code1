@@ -57,24 +57,23 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*ENZO MD WHATSAPP BOT CONNECTED*
+*POPKID MD WHATSAPP BOT CONNECTED*
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ~𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔~
 > https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ~𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘~
-> https://GitHub.com/Cheroo51/ENZO-MD 
+> https://GitHub.com/Popkid-md/TRIPPY
 > https://github.com/Popkidtech/IANS-MD
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
  ~𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓~
-> https://wa.me/message/254784115308
+> https://wa.me/message/254732297194
 > https://wa.me/message/254111385747
 
-*MADE BY ENZO TECH*❒❒❒❒❒❒❒❒❒`
+*MADE BY POPKID TECH*❒❒❒❒❒❒❒❒❒`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
